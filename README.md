@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <a href="[https://git.io/streak-stats](https://amaurineo.github.io/)">
+  <a href="https://amaurineo.github.io/">
     <img src="https://github.com/amaurineo/amaurineo/assets/62269987/9e08710a-9419-4452-9285-4daad47d6282" />
   <a/>
 </div>
