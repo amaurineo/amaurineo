@@ -22,12 +22,11 @@
   <br>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CEA5FB&height=120&section=footer"/>
-
 <div align="center">
   <a href="[https://git.io/streak-stats](https://amaurineo.github.io/)">
     <img src="https://github.com/amaurineo/amaurineo/assets/62269987/9e08710a-9419-4452-9285-4daad47d6282" />
   <a/>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CEA5FB&height=120&section=footer"/>
 
